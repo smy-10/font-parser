@@ -1,0 +1,5 @@
+D:/mygit/font-parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mygit/font-parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/mygit/font-parser/cmake-build-debug/src/CMakeFiles/font_parser.dir
+D:/mygit/font-parser/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/mygit/font-parser/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

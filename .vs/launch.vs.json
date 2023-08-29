@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "CMakeLists.txt",
+      "projectTarget": "font_parser.dll (bin\\font_parser.dll)",
+      "name": "font_parser.dll (bin\\font_parser.dll)"
+    }
+  ]
+}
